@@ -3,11 +3,11 @@
 	"version": "4.2.0",
 	"description": "Use Tailwind CSS in React Native projects",
 	"license": "MIT",
-	"repository": "vadimdemedes/tailwind-rn",
+	"repository": "gerald525/tailwind-rn",
 	"author": {
 		"name": "Vadim Demedes",
 		"email": "vdemedes@gmail.com",
-		"url": "https://vadimdemedes.com"
+		"url": "https://gerald525.com"
 	},
 	"main": "dist",
 	"bin": {

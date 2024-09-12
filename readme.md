@@ -2,7 +2,7 @@
 
 ---
 
-# tailwind-rn ![Status](https://github.com/vadimdemedes/tailwind-rn/workflows/test/badge.svg)
+# tailwind-rn ![Status](https://github.com/gerald525/tailwind-rn/workflows/test/badge.svg)
 
 > Use [Tailwind](https://tailwindcss.com) in [React Native](https://reactnative.dev) projects
 

@@ -107,12 +107,12 @@ const MyComponent = () => {
 ## 3. Remove code for a custom configuration
 
 Latest `tailwind-rn` supports custom configuration of Tailwind out of the box, so there's no additional steps needed to configure it.
-This means that you should remove `styles.json` file from the root of your project and delete code using the [`create`](https://github.com/vadimdemedes/tailwind-rn/blob/9f977e82910d916c5a8684eb6d8b423b6130d785/readme.md#createstyles) function, because it's no longer available.
+This means that you should remove `styles.json` file from the root of your project and delete code using the [`create`](https://github.com/gerald525/tailwind-rn/blob/9f977e82910d916c5a8684eb6d8b423b6130d785/readme.md#createstyles) function, because it's no longer available.
 All your custom styles will automatically become available through `useTailwind` React hook.
 
 ## 4. Remove usage of `getColor` function
 
-There's no longer [`getColor`](https://github.com/vadimdemedes/tailwind-rn/blob/9f977e82910d916c5a8684eb6d8b423b6130d785/readme.md#getcolorcolor) function exported from `tailwind-rn`.
+There's no longer [`getColor`](https://github.com/gerald525/tailwind-rn/blob/9f977e82910d916c5a8684eb6d8b423b6130d785/readme.md#getcolorcolor) function exported from `tailwind-rn`.
 This means that you need to update the code to extract Tailwind colors in a different way.
 
 Before:
